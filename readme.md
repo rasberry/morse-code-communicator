@@ -1,4 +1,4 @@
-# morse code communicator #
+# morse code communicator
 
 USAGE: ./morse.sh "message"
 
@@ -9,3 +9,6 @@ USAGE: ./morse.sh "message"
 
 db334aab-92a1-11eb-8001-8c16454fb02a radio button
 ```
+
+-----
+2021-04-01
